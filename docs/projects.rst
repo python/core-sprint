@@ -62,6 +62,7 @@ Release management
 
 - Łukasz Langa
 - Ned Deily
+- Pablo Galindo Salgado
 
 Typing
 ------
@@ -78,6 +79,7 @@ GC improvements
 ---------------
 
 - Neil Schemenauer
+- Pablo Galindo Salgado
 
 Optimize startup time
 ---------------------
