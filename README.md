@@ -13,4 +13,6 @@ All core devs, Python triage members, and active core dev mentees are invited to
 
 Sign up form:  https://forms.gle/84NkyYt5g616fs1r5
 
+Details: https://python-core-sprint-2020.readthedocs.io/
+
 Organized by Mariatta & Kyle Stanley & Ewa Jodlowska
