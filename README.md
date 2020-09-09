@@ -2,7 +2,7 @@
 
 Repo for Virtual Core Dev Sprint 2020.
 
-The sprint is scheduled for Oct 19 - 23, 2020. This will be an online event instead of the in-person sprint.
+The sprint is scheduled for **Oct 19 - 23, 2020**. This will be an online event instead of the in-person sprint.
 
 # About core dev sprint
 
