@@ -114,6 +114,7 @@ Language Design Discussions
 - Pablo Galindo Salgado
 - Emily Morehouse
 - Batuhan Taşkaya
+- Thomas Wouters
 
 Windows
 -------

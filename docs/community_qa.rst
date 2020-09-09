@@ -10,6 +10,11 @@ The community Q&A session will be recorded and published to The PSF's YouTube ch
 
 Schedule: TBD
 
+.. seealso::
+
+   :ref:`participants` and :ref:`projects` for the list of all sprint participants
+   and their sprint projects
+
 Core devs participating in the Community Q&A
 --------------------------------------------
 
@@ -34,3 +39,4 @@ Core devs participating in the Community Q&A
 - Kyle
 - Terry Jan Reedy
 - Guido van Rossum
+- Thomas Wouters
