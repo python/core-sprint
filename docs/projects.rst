@@ -56,6 +56,7 @@ General issue triage/ PR reviews
 - Andrew Kuchling
 - Zach Ware
 - Lysandros Nikolaou
+- Batuhan Taşkaya
 
 Release management
 ------------------
@@ -112,6 +113,7 @@ Language Design Discussions
 - Stefan Behnel
 - Pablo Galindo Salgado
 - Emily Morehouse
+- Batuhan Taşkaya
 
 Windows
 -------
