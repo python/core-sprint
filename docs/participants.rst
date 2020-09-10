@@ -34,6 +34,10 @@ After signing up through the form, please add yourself to this doc by
 creating a pull request. You'll want to add yourself to :ref:`participants`,
 :ref:`projects`, and if applicable :ref:`community_qa`.
 
+.. seealso::
+
+   `Timezone converter <https://www.timeanddate.com/worldclock/converter.html?iso=20200910T170000&p1=3911&p2=3910&p3=3905&p4=3904&p5=3903&p6=3918&p7=3919&p8=3920&p9=3921&p10=3922>`_.
+
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
 | Name                   | Status            | Timezone  | GitHub Handle     | Notes                                |
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
