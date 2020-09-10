@@ -57,6 +57,7 @@ General issue triage/ PR reviews
 - Zach Ware
 - Lysandros Nikolaou
 - Batuhan Taşkaya
+- Steve Dower
 
 Release management
 ------------------
@@ -75,6 +76,7 @@ asyncio
 
 - Carol Willing
 - Kyle
+- Yury Selivanov
 
 GC improvements
 ---------------

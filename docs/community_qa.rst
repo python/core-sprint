@@ -40,3 +40,5 @@ Core devs participating in the Community Q&A
 - Terry Jan Reedy
 - Guido van Rossum
 - Thomas Wouters
+- Yury Selivanov, can answer questions re asyncio
+- Steve Dower, if there's relevant question
