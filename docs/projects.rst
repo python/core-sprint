@@ -19,6 +19,7 @@ C-API/subinterpreters
 - Stefan Behnel
 - Trent Nelson
 - Victor Stinner
+- Dong-hee Na
 
 email
 -----
@@ -33,6 +34,7 @@ stdlib modules
 - Pablo Galindo Salgado
 - Senthil Kumaran
 - Stefan Behnel
+- Dong-hee Na
 
 Parser improvements
 --------------------
@@ -153,6 +155,7 @@ multiphase init and heap type
 -----------------------------
 
 - Hai Shi
+- Dong-hee Na
 
 IDLE
 ----
