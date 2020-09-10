@@ -42,6 +42,7 @@ stdlib modules
 - Senthil Kumaran
 - Stefan Behnel
 - Dong-hee Na
+- Guido van Rossum
 
 `stdlib modules Notes <https://docs.google.com/document/d/1a9zVOF7W8OjFjYvnZ9gu7menwARXPElm8nTJfyvi_vE/edit?usp=sharing>`_.
 
@@ -73,6 +74,7 @@ General issue triage/ PR reviews
 - Lysandros Nikolaou
 - Batuhan Taşkaya
 - Steve Dower
+- Guido van Rossum
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -89,6 +91,7 @@ Typing
 ------
 
 - Łukasz Langa
+- Guido van Rossum
 
 `Typing Notes <https://docs.google.com/document/d/1RDdgLEEVqkFUJlQaTCK36BsESXcc4ul_9KAi3fHaaQE/edit?usp=sharing>`_.
 
@@ -98,6 +101,7 @@ asyncio
 - Carol Willing
 - Kyle
 - Yury Selivanov
+- Guido van Rossum
 
 `asyncio Notes <https://docs.google.com/document/d/1khoyFNEjodMQq_fQhzDy0i_cqLjyQ5j_6v9BvYaeyQc/edit?usp=sharing>`_.
 
@@ -152,6 +156,7 @@ Language Design Discussions
 - Emily Morehouse
 - Batuhan Taşkaya
 - Thomas Wouters
+- Guido van Rossum
 
 `Language Design Discussions Notes <https://docs.google.com/document/d/1uB5PEn1JlZH4RMsQg8X-_W6aIXgWNYEXzhu77seXD5Y/edit?usp=sharing>`_.
 
@@ -174,6 +179,7 @@ DSLs and support for dynamic and/or annotated ASTs
 --------------------------------------------------
 
 - Emily Morehouse
+- Guido van Rossum
 
 `DSLs and support for dynamic and/or annotated ASTs Notes <https://docs.google.com/document/d/1-kVKIV6dUGbh7i9b1xcck9O2sLulamB5iiM3LxgfipM/edit?usp=sharing>`_.
 
@@ -188,6 +194,7 @@ Increasing new contributors; mentorship
 ---------------------------------------
 
 - Tal Einat
+- Guido van Rossum
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
