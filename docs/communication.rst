@@ -29,3 +29,7 @@ share the links.
 
 When you're in a group meeting, please remember to take down notes, so those
 unable to attend the meeting can get up speed.
+
+We have created a Google Doc for each project. You can find the link to
+the notes in :ref:`projects`. We will ensure that each participant will
+have access to all the docs as it gets closer to the sprint.
