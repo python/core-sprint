@@ -20,6 +20,7 @@ C-API/subinterpreters
 - Trent Nelson
 - Victor Stinner
 - Dong-hee Na
+- Christian Heimes
 
 email
 -----
@@ -171,3 +172,8 @@ PEP 447
 -------
 
 - Ronald Oussoren
+
+Security / SSL
+--------------
+
+- Christian Heimes
