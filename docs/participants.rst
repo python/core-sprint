@@ -13,9 +13,6 @@ in Python Core Sprint 2020.
 
 All core devs, Python triage members, and active core dev mentees are invited to participate.
 
-If you have not signed up and would like to participate, please fill in this form:
-https://forms.gle/84NkyYt5g616fs1r5
-
 You are a core developer if:
 
 - You're listed as a member of `Python core <https://github.com/orgs/python/teams/python-core/members>`_
@@ -30,6 +27,12 @@ You are a Python triage members if:
 - You're listed as a member of `Python triage <https://github.com/orgs/python/teams/python-triage/members>`_
   team on GitHub
 
+If you have not signed up and would like to participate, please fill in this form:
+https://forms.gle/84NkyYt5g616fs1r5
+
+After signing up through the form, please add yourself to this doc by
+creating a pull request. You'll want to add yourself to :ref:`participants`,
+:ref:`projects`, and if applicable :ref:`community_qa`.
 
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
 | Name                   | Status            | Timezone  | GitHub Handle     | Notes                                |
@@ -80,7 +83,7 @@ You are a Python triage members if:
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
 | Emily Morehouse        | Core Developer    | UTC-6     | emilyemorehouse   |                                      |
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
-| Barry Warsaw           | Core Developer    | UTC-7     | nanjekyejoannah   |                                      |
+| Barry Warsaw           | Core Developer    | UTC-7     | warsaw            |                                      |
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+
 | Mariatta               | Core Developer    | UTC-7     | mariatta          |                                      |
 +------------------------+-------------------+-----------+-------------------+--------------------------------------+

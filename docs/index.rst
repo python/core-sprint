@@ -26,6 +26,10 @@ invited to participate.
 
 Sign up form:  https://forms.gle/84NkyYt5g616fs1r5
 
+After signing up through the form, please add yourself to this doc by
+creating a pull request. You'll want to add yourself to :ref:`participants`,
+:ref:`projects`, and if applicable :ref:`community_qa`.
+
 **Help improve this documentation** by opening an issue or creating a pull
 request at https://github.com/python/core-sprint
 
