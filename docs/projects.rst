@@ -11,8 +11,8 @@ Sprint Projects
 As it gets closer to the sprint, we will ensure that all participants will have
 access to all the notes linked below.
 
-C-API/subinterpreters
----------------------
+C-API/runtime/subinterpreters
+-----------------------------
 
 - Joannah Nanjekye
 - Pablo Galindo Salgado
@@ -23,6 +23,7 @@ C-API/subinterpreters
 - Victor Stinner
 - Dong-hee Na
 - Christian Heimes
+- Eric Snow
 
 `C-API/subinterpreters Notes <https://docs.google.com/document/d/1tkaE7tgNjlUxprRSUZm0L8o3JRQldNFiOTV1alkVEHI/edit?usp=sharing>`_.
 
@@ -47,7 +48,7 @@ stdlib modules
 `stdlib modules Notes <https://docs.google.com/document/d/1a9zVOF7W8OjFjYvnZ9gu7menwARXPElm8nTJfyvi_vE/edit?usp=sharing>`_.
 
 Parser improvements
---------------------
+-------------------
 
 - Pablo Galindo Salgado
 - Lysandros Nikolaou
@@ -117,6 +118,7 @@ Optimize startup time
 ---------------------
 
 - Neil Schemenauer
+- Eric Snow
 
 `Optimize startup time Notes <https://docs.google.com/document/d/1tggGrMKLRHLDW6Sj0oZ7TYi5S7wpn8Zu1D8QtgxMiic/edit?usp=sharing>`_.
 
@@ -157,6 +159,7 @@ Language Design Discussions
 - Batuhan Taşkaya
 - Thomas Wouters
 - Guido van Rossum
+- Eric Snow
 
 `Language Design Discussions Notes <https://docs.google.com/document/d/1uB5PEn1JlZH4RMsQg8X-_W6aIXgWNYEXzhu77seXD5Y/edit?usp=sharing>`_.
 
@@ -195,6 +198,7 @@ Increasing new contributors; mentorship
 
 - Tal Einat
 - Guido van Rossum
+- Eric Snow
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
@@ -210,6 +214,7 @@ multiphase init and heap type
 
 - Hai Shi
 - Dong-hee Na
+- Eric Snow
 
 `multiphase init and heap type Notes <https://docs.google.com/document/d/1nBwGwP2VrL9YzMPXYiy0G9HMERaDwv1eIYYddO-d0vk/edit?usp=sharing>`_.
 

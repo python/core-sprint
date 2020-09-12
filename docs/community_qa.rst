@@ -43,3 +43,4 @@ Core devs participating in the Community Q&A
 - Yury Selivanov, can answer questions re asyncio
 - Steve Dower, if there's relevant question
 - Christian Heimes
+- Eric Snow
