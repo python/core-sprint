@@ -24,6 +24,7 @@ C-API/runtime/subinterpreters
 - Dong-hee Na
 - Christian Heimes
 - Eric Snow
+- Hai Shi
 
 `C-API/subinterpreters Notes <https://docs.google.com/document/d/1tkaE7tgNjlUxprRSUZm0L8o3JRQldNFiOTV1alkVEHI/edit?usp=sharing>`_.
 
