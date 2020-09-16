@@ -20,3 +20,18 @@ Other planned activities:
 We will be creating a shared Google Calendar with all the scheduled sessions,
 and the link will be shared with all attendees.
 
+(Todo: update the table with UTC time or provide iCal link)
+
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Date                    | Time                       | Activity                                                                 |
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Sunday, Oct 18, 2020    | 3 PM - midnight Eastern    | Tech check session                                                       |
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Monday, Oct 19, 2020    | 9 AM Pacific (UTC-7)       | Kick-off meeting (live, and recorded), followed with group photo         |
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Tuesday, Oct 20, 2020   | 3 PM Central               | :ref:`community_qa`                                                      |
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Wednesday, Oct 21, 2020 | 9 AM Pacific               | Core devs & Steering council Q&A session                                 |
++-------------------------+----------------------------+--------------------------------------------------------------------------+
+| Friday, Oct 22, 2020    | 9 AM Pacific               | Send-off meeting (live, and recorded), followed with another group photo |
++-------------------------+----------------------------+--------------------------------------------------------------------------+

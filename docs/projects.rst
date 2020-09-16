@@ -25,6 +25,7 @@ C-API/runtime/subinterpreters
 - Christian Heimes
 - Eric Snow
 - Hai Shi
+- Gregory P. Smith
 
 `C-API/subinterpreters Notes <https://docs.google.com/document/d/1tkaE7tgNjlUxprRSUZm0L8o3JRQldNFiOTV1alkVEHI/edit?usp=sharing>`_.
 
@@ -45,6 +46,7 @@ stdlib modules
 - Stefan Behnel
 - Dong-hee Na
 - Guido van Rossum
+- Vinay Sajip
 
 `stdlib modules Notes <https://docs.google.com/document/d/1a9zVOF7W8OjFjYvnZ9gu7menwARXPElm8nTJfyvi_vE/edit?usp=sharing>`_.
 
@@ -77,6 +79,8 @@ General issue triage/ PR reviews
 - Batuhan Taşkaya
 - Steve Dower
 - Guido van Rossum
+- Vinay Sajip
+- Gregory P. Smith
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -162,6 +166,7 @@ Language Design Discussions
 - Thomas Wouters
 - Guido van Rossum
 - Eric Snow
+- Vinay Sajip
 
 `Language Design Discussions Notes <https://docs.google.com/document/d/1uB5PEn1JlZH4RMsQg8X-_W6aIXgWNYEXzhu77seXD5Y/edit?usp=sharing>`_.
 
@@ -202,6 +207,7 @@ Increasing new contributors; mentorship
 - Guido van Rossum
 - Eric Snow
 - Joannah Nanjekye
+- Mariatta
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
@@ -232,6 +238,9 @@ Documentation
 -------------
 
 - Terry Jan Reedy
+- Vinay Sajip
+- Gregory P. Smith
+- Mariatta
 
 `Documentation Notes <https://docs.google.com/document/d/1YcMYJFaU8ZfxqUM8-R_iogQXv0nLwksF4ID6vaGpzCw/edit?usp=sharing>`_.
 
@@ -248,3 +257,23 @@ Security / SSL
 - Christian Heimes
 
 `Security / SSL Notes <https://docs.google.com/document/d/1S_UVIO88UccPr7nJfqe-BEtxDS1EIxGeRCXDVic82l0/edit?usp=sharing>`_.
+
+Gilectomy
+---------
+
+- Larry Hastings
+
+New PEP
+-------
+
+- Larry Hastings
+
+Posix subprocess
+----------------
+
+- Gregory P. Smith
+
+Build System
+------------
+
+- Gregory P. Smith
