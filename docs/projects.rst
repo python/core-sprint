@@ -112,6 +112,7 @@ GC improvements
 
 - Neil Schemenauer
 - Pablo Galindo Salgado
+- Joannah Nanjekye
 
 `GC improvements Notes <https://docs.google.com/document/d/1grEfSjFxz7WqPHZHEC2O_UbvKWCU3t_SqvEFseEUa0U/edit?usp=sharing>`_.
 
@@ -200,6 +201,7 @@ Increasing new contributors; mentorship
 - Tal Einat
 - Guido van Rossum
 - Eric Snow
+- Joannah Nanjekye
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
