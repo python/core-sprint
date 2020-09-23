@@ -81,6 +81,7 @@ General issue triage/ PR reviews
 - Guido van Rossum
 - Vinay Sajip
 - Gregory P. Smith
+- Brandt Bucher
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -277,3 +278,8 @@ Build System
 ------------
 
 - Gregory P. Smith
+
+PEP 622/634 Structural Pattern Matching
+---------------------------------------
+
+- Brandt Bucher

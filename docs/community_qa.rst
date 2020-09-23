@@ -48,6 +48,7 @@ Core devs participating in the Community Q&A
 - Christian Heimes
 - Eric Snow
 - Gregory P. Smith
+- Brandt Bucher
 
 
 .. _slido: https://app.sli.do/event/d4ifvw2o/live/questions
