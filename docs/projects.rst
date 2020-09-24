@@ -26,6 +26,7 @@ C-API/runtime/subinterpreters
 - Eric Snow
 - Hai Shi
 - Gregory P. Smith
+- Lewis Gaul
 
 `C-API/subinterpreters Notes <https://docs.google.com/document/d/1tkaE7tgNjlUxprRSUZm0L8o3JRQldNFiOTV1alkVEHI/edit?usp=sharing>`_.
 
