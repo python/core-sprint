@@ -83,6 +83,7 @@ General issue triage/ PR reviews
 - Vinay Sajip
 - Gregory P. Smith
 - Brandt Bucher
+- Mark Shannon
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -119,6 +120,7 @@ GC improvements
 - Neil Schemenauer
 - Pablo Galindo Salgado
 - Joannah Nanjekye
+- Mark Shannon
 
 `GC improvements Notes <https://docs.google.com/document/d/1grEfSjFxz7WqPHZHEC2O_UbvKWCU3t_SqvEFseEUa0U/edit?usp=sharing>`_.
 
@@ -127,6 +129,7 @@ Optimize startup time
 
 - Neil Schemenauer
 - Eric Snow
+- Mark Shannon
 
 `Optimize startup time Notes <https://docs.google.com/document/d/1tggGrMKLRHLDW6Sj0oZ7TYi5S7wpn8Zu1D8QtgxMiic/edit?usp=sharing>`_.
 
