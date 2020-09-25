@@ -49,6 +49,7 @@ Core devs participating in the Community Q&A
 - Eric Snow
 - Gregory P. Smith
 - Brandt Bucher
+- Mark Shannon
 
 
 .. _slido: https://app.sli.do/event/d4ifvw2o/live/questions
