@@ -220,6 +220,7 @@ importlib.resources
 -------------------
 
 - Jason R. Coombs
+- Filipe Laíns
 
 `importlib.resources Notes <https://docs.google.com/document/d/13iG5xDRg4lnrN8YBszpyKBAVRFjG_3CvyXUdsHi9wY8/edit?usp=sharing>`_.
 
