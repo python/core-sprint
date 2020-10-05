@@ -84,6 +84,7 @@ General issue triage/ PR reviews
 - Gregory P. Smith
 - Brandt Bucher
 - Mark Shannon
+- Inada Naoki
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
