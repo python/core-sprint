@@ -289,3 +289,11 @@ PEP 622/634 Structural Pattern Matching
 ---------------------------------------
 
 - Brandt Bucher
+
+Wheel interpreter naming for `3.10`
+-----------------------------------
+Or: Python 3.10 and the case of that pesky double-digit minor version number (`PR <https://github.com/python/cpython/pull/20333>`__)
+
+- Brett Cannon
+- Ned Deily
+- Pablo Galindo Salgado
