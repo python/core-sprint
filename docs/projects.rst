@@ -27,6 +27,7 @@ C-API/runtime/subinterpreters
 - Hai Shi
 - Gregory P. Smith
 - Lewis Gaul
+- Barry Warsaw
 
 `C-API/subinterpreters Notes <https://docs.google.com/document/d/1tkaE7tgNjlUxprRSUZm0L8o3JRQldNFiOTV1alkVEHI/edit?usp=sharing>`_.
 
@@ -131,6 +132,7 @@ Optimize startup time
 - Neil Schemenauer
 - Eric Snow
 - Mark Shannon
+- Barry Warsaw
 
 `Optimize startup time Notes <https://docs.google.com/document/d/1tggGrMKLRHLDW6Sj0oZ7TYi5S7wpn8Zu1D8QtgxMiic/edit?usp=sharing>`_.
 
@@ -173,6 +175,7 @@ Language Design Discussions
 - Guido van Rossum
 - Eric Snow
 - Vinay Sajip
+- Barry Warsaw
 
 `Language Design Discussions Notes <https://docs.google.com/document/d/1uB5PEn1JlZH4RMsQg8X-_W6aIXgWNYEXzhu77seXD5Y/edit?usp=sharing>`_.
 
@@ -222,6 +225,7 @@ importlib.resources
 
 - Jason R. Coombs
 - Filipe Laíns
+- Barry Warsaw
 
 `importlib.resources Notes <https://docs.google.com/document/d/13iG5xDRg4lnrN8YBszpyKBAVRFjG_3CvyXUdsHi9wY8/edit?usp=sharing>`_.
 
@@ -289,6 +293,7 @@ PEP 622/634 Structural Pattern Matching
 ---------------------------------------
 
 - Brandt Bucher
+- Barry Warsaw
 
 Wheel interpreter naming for `3.10`
 -----------------------------------
@@ -297,3 +302,4 @@ Or: Python 3.10 and the case of that pesky double-digit minor version number (`P
 - Brett Cannon
 - Ned Deily
 - Pablo Galindo Salgado
+- Barry Warsaw
