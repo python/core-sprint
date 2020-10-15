@@ -17,10 +17,11 @@ Other planned activities:
 - Tech check session: the day before the sprint, for anyone who needs help with setting up Zoom, Discord, etc.
 - Group Photo
 
-We will be creating a shared Google Calendar with all the scheduled sessions,
-and the link will be shared with all attendees.
+Shared Google Calendar `Python Virtual Core Sprint Calendar <https://calendar.google.com/calendar/embed?src=c_qiar6rspbhh64kb4vrv52seaok%40group.calendar.google.com&ctz=America%2FVancouver>`_
 
-(Todo: update the table with UTC time or provide iCal link)
+.. raw:: html
+
+      <iframe src="https://calendar.google.com/calendar/embed?src=c_qiar6rspbhh64kb4vrv52seaok%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 +-------------------------+----------------------------+--------------------------------------------------------------------------+
 | Date                    | Time                       | Activity                                                                 |
