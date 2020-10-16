@@ -11,6 +11,14 @@ Sprint Projects
 As it gets closer to the sprint, we will ensure that all participants will have
 access to all the notes linked below.
 
+Sprint Blog Post
+----------------
+
+Please help us write the sprint summary blog post! This will be posted in
+The PSF's blog. It would help us if you could share your daily updates below.
+
+`Draft of the Blog Post <https://docs.google.com/document/d/1jN9yvge5LcQqlbWIWVIwEW4kXp6i-L9hbSj8BUUKaG4/edit?usp=sharing>`_
+
 C-API/runtime/subinterpreters
 -----------------------------
 
