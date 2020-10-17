@@ -46,6 +46,7 @@ request at https://github.com/python/core-sprint
    communication
    community_qa
    social_activities
+   tech_check
 
 
 
