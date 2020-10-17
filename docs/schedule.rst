@@ -14,7 +14,7 @@ Other planned activities:
 - :ref:`community_qa`: 30 minutes Q & A Session
 - Core devs & Steering council Q&A session
 - :ref:`social`
-- Tech check session: the day before the sprint, for anyone who needs help with setting up Zoom, Discord, etc.
+- :ref:`tech_check` session: the day before the sprint, for anyone who needs help with setting up Zoom, Discord, etc.
 - Group Photo
 
 Shared Google Calendar `Python Virtual Core Sprint Calendar <https://calendar.google.com/calendar/embed?src=c_qiar6rspbhh64kb4vrv52seaok%40group.calendar.google.com&ctz=America%2FVancouver>`_
