@@ -3,8 +3,8 @@ Schedule
 
 The sprint will take place from **Oct 19 to 23, 2020**.
 
-We will have a live kick-off meeting on **Monday Oct 19, 9 AM Pacific (2 PM UTC)**,
-and a send-off meeting on **Friday Oct 23, 9 AM Pacific (2 PM UTC)**.
+We will have a live kick-off meeting on **Monday Oct 19, 9 AM PDT (4 PM UTC)**,
+and a send-off meeting on **Friday Oct 23, 9 AM PDT (4 PM UTC)**.
 
 The meetings will be recorded so those unable to attend the meeting can watch
 it afterwards.
