@@ -94,6 +94,7 @@ General issue triage/ PR reviews
 - Brandt Bucher
 - Mark Shannon
 - Inada Naoki
+- Carol Willing
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -225,6 +226,7 @@ Increasing new contributors; mentorship
 - Eric Snow
 - Joannah Nanjekye
 - Mariatta
+- Carol Willing
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
@@ -260,6 +262,7 @@ Documentation
 - Vinay Sajip
 - Gregory P. Smith
 - Mariatta
+- Carol Willing
 
 `Documentation Notes <https://docs.google.com/document/d/1YcMYJFaU8ZfxqUM8-R_iogQXv0nLwksF4ID6vaGpzCw/edit?usp=sharing>`_.
 
@@ -302,6 +305,7 @@ PEP 622/634 Structural Pattern Matching
 
 - Brandt Bucher
 - Barry Warsaw
+- Carol Willing
 
 Wheel interpreter naming for `3.10`
 -----------------------------------
