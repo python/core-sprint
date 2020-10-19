@@ -315,3 +315,10 @@ Or: Python 3.10 and the case of that pesky double-digit minor version number (`P
 - Ned Deily
 - Pablo Galindo Salgado
 - Barry Warsaw
+
+Hypothesis standard library tests
+---------------------------------
+
+Trying to follow up on the proposal by Zac Hatfield-Dobbs from the language summit this year.
+
+- Paul Ganssle
