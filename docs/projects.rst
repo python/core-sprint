@@ -3,7 +3,6 @@
 Sprint Projects
 ===============
 
-
 .. seealso::
 
    :ref:`participants` for the list of all sprint participants.
@@ -231,6 +230,11 @@ Increasing new contributors; mentorship
 - Joannah Nanjekye
 - Mariatta
 - Carol Willing
+- Ammar Askar
+- Batuhan Taşkaya
+- Kyle Stanley
+- Lewis Gaul
+- Zach Ware
 
 `Increasing new contributors; mentorship Notes <https://docs.google.com/document/d/1ewHbHiakBGv9UeTL18BD6krSpi_9mS7OqJwcuVXDamA/edit?usp=sharing>`_.
 
@@ -251,13 +255,6 @@ multiphase init and heap type
 - Eric Snow
 
 `multiphase init and heap type Notes <https://docs.google.com/document/d/1nBwGwP2VrL9YzMPXYiy0G9HMERaDwv1eIYYddO-d0vk/edit?usp=sharing>`_.
-
-IDLE
-----
-
-- Terry Jan Reedy
-
-`IDLE Notes <https://docs.google.com/document/d/1WTl4hDMVeSxzF-1gQValhVixc6kG9mp2nAroUA4UEZ0/edit?usp=sharing>`_.
 
 Documentation
 -------------
@@ -327,3 +324,13 @@ Hypothesis standard library tests
 Trying to follow up on the proposal by Zac Hatfield-Dobbs from the language summit this year.
 
 - Paul Ganssle
+
+Auto-Formatting the CPython Codebase
+------------------------------------
+
+- Ammar Askar
+- Batuhan Taşkaya
+- Dong-hee Na
+- Gregory P. Smith
+- Pablo Galindo Salgado
+- Tal Einat
