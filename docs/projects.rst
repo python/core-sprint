@@ -57,6 +57,8 @@ stdlib modules
 - Dong-hee Na
 - Guido van Rossum
 - Vinay Sajip
+- Éric Araujo
+- Irit Katriel
 
 `stdlib modules Notes <https://docs.google.com/document/d/1a9zVOF7W8OjFjYvnZ9gu7menwARXPElm8nTJfyvi_vE/edit?usp=sharing>`_.
 
@@ -95,6 +97,8 @@ General issue triage/ PR reviews
 - Mark Shannon
 - Inada Naoki
 - Carol Willing
+- Éric Araujo
+- Irit Katriel
 
 `General issue triage/ PR reviews Notes <https://docs.google.com/document/d/1wyj4o6kfXBKl4AKE-JNoGN4QhXV1OwqiIc1beAV6dDE/edit?usp=sharing>`_.
 
@@ -263,6 +267,7 @@ Documentation
 - Gregory P. Smith
 - Mariatta
 - Carol Willing
+- Fred Drake
 
 `Documentation Notes <https://docs.google.com/document/d/1YcMYJFaU8ZfxqUM8-R_iogQXv0nLwksF4ID6vaGpzCw/edit?usp=sharing>`_.
 
